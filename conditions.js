@@ -19,7 +19,7 @@ console.log("hey")
 
 // truthy and falsy
 
-const Var = 0;
+const Var = 24;
 
 if(Var)
     console.log("c'est une valeur Vraie")
