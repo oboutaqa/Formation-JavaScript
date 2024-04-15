@@ -8,7 +8,7 @@ const name2 = "Dev";
 
 const user = "Web";
 
-const bienvenue = `Bienvenue sur notre site ${user}` // utiliser les accents graves
+const bienvenue = `Bienvenue sur notre site ${user}` // utiliser les accents graves "Backticks"
 
 const greeting = `Ma mère m'a dit "Ne rentre pas trop tard"`;
 const greeting2 = "Ma mère m'a dit \"Ne rentre pas trop tard\"";
